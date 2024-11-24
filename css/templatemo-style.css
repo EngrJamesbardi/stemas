@@ -4,6 +4,20 @@ Known Template
 
 https://templatemo.com/tm-516-known
 
+@media (max-width: 768px) {
+  .dropdown {
+    display: block; 
+  }
+  .dropdown-menu {
+    position: static;
+  }
+}
+
+.dropdown-menu {
+  z-index: 1050; 
+}
+
+
 */
 
   @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
